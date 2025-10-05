@@ -9,6 +9,7 @@ SimpleVR é um projeto acadêmico, foi feito na Unity, para ser utilizado com ó
 - Rotação de câmeras
 - Coleta de objetos
 - Reset de cena
-- 
+
+  
 ### Updates futuros
 - Uso de giroscópio
