@@ -2,10 +2,13 @@
 
 <img src="info.jpg" style='height: 100%; width: 100%; object-fit: contain'/>
 
-SImpleR foi feito na Unity, para ser utilizado com óculos Stereoscópicos simples. O projeto foi construído sem assets prontos de XR, sendo criado com duas câmeras.
+SimpleR foi feito na Unity, para ser utilizado com óculos Stereoscópicos simples. O projeto foi construído sem assets prontos de XR, sendo criado com duas câmeras e desenvolvimento de scripts e lógica própria, com sentido de estudo e simplificade.
 
 ### Features
 - Rotação de cameras
 - Uso de controle bluetooth
 - Reset de cena
 - Coleta de objetos
+
+### Updates futuros
+- Uso de giroscópio
