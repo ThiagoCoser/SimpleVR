@@ -1,4 +1,4 @@
-# Pula Corda - Jogo
+# SimpleVR
 
 <img src="info.jpg" style='height: 100%; width: 100%; object-fit: contain'/>
 
