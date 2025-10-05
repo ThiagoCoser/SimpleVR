@@ -1,17 +1,11 @@
 using UnityEngine;
 
-
 public class ResetCamera : MonoBehaviour
 {
+    public SimpleAccelVR_oldInput accelScript;
 
-
-    public GameObject cameraHead;
-
-
-    public void resetCamera()
+    public void ResetCameraButton()
     {
-
-        cameraHead.transform.localPosition = new Vector3(0f, 0f, 0f);
+        accelScript.ResetOrientation();
     }
-
 }
