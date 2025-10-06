@@ -750,6 +750,7 @@ GameObject:
   m_Component:
   - component: {fileID: 573128702}
   - component: {fileID: 573128703}
+  - component: {fileID: 573128704}
   m_Layer: 0
   m_Name: Head
   m_TagString: Untagged
@@ -783,7 +784,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 573128700}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 873e7dd96cc6f1d4aa92d1806916f5ac, type: 3}
   m_Name: 
@@ -793,6 +794,24 @@ MonoBehaviour:
   rotationAmount: 2
   minPitch: -80
   maxPitch: 80
+--- !u!114 &573128704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 573128700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e9a21b2c93754c4b8d083757e5977cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  horizontalAxis: Look X
+  verticalAxis: Look Y
+  rotationAmount: 2
+  minPitch: -80
+  maxPitch: 80
+  rotationLerpTime: 0.8
 --- !u!1 &610747528
 GameObject:
   m_ObjectHideFlags: 0
