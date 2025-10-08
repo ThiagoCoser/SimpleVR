@@ -5,11 +5,9 @@
 SimpleVR é um projeto acadêmico, foi feito na Unity, para ser utilizado com óculos Stereoscópicos simples. O projeto foi construído sem assets prontos de XR, com desenvolvimento de scripts e lógica própria, com sentido de estudo e simplicidade.
 
 ### Features
-- Suporte a joystick
-- Rotação de câmeras
+- Rotacão da câmera por giroscópio ou joystick
 - Coleta de objetos
 - Reset de cena
-
   
 ### Updates futuros
-- Uso de giroscópio
+- Adição de objetos 3D e interações
